@@ -3,3 +3,5 @@ Welcome to the green book! The point of this book is to provide insight to BYOND
 
 [GitHub]: https://github.com/Carbonhell/The-green-book
 [discord]: https://discord.gg/Vh8TJp9
+
+Be sure to choose the codebase you're using from the `Change codebase` option top-left, so that this guide will show you the examples relative to it. Select `BYOND raw` if you're not using any codebase (aka you're starting from scratch, an empty project).

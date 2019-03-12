@@ -10,7 +10,7 @@ If you're reading this, you probably have [BYOND] installed already. When you in
 ## Dream Maker
 The first is what you'll use to code. It's the IDE which you use to write code, compile and eventually run for testing purposes (although, for large projects, it's suggested to use Dream Daemon to run the code, since it's how you'd run it in a production environment).
 
-By default, it is located in BYOND bin folder, accessible from wherever you installed byond (normally, Program Files(x86) ). 
+By default, it is located in BYOND bin folder, accessible from wherever you installed byond (normally, Program Files(x86) ). You can also open it with the CTRL+M macro from BYOND itself.
 
 Once opened, you will see a window separated in three parts, normally.
 

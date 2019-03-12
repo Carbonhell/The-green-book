@@ -1,6 +1,6 @@
 # The BYOND green book
 
-- [Introduction](./introduction.md)
+- [Introduction (Read this first!)](./introduction.md)
 - [Getting Started](./getting_started.md)
 	- [Installation](./installation.md)
 	- [Hello World](./hello_world.md)
